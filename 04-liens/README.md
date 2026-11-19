@@ -83,12 +83,12 @@ Les numéros correspondent aux commentaires `TODO` dans les fichiers.
 
 ## Critères de réussite
 
-- [ ] Les 8 liens du tableau fonctionnent.
-- [ ] Tous les liens internes utilisent des chemins **relatifs** (aucun `C:\…` ni `file:///…`).
-- [ ] Le lien de retour de `pages/contact.html` utilise `../`.
-- [ ] Le lien vers la FAO s'ouvre dans un nouvel onglet et contient `rel="noopener"`.
-- [ ] Le lien e-mail commence par `mailto:`.
-- [ ] Plus aucun lien « cliquez ici » : chaque texte de lien a du sens tout seul.
+- [x] Les 8 liens du tableau fonctionnent.
+- [x] Tous les liens internes utilisent des chemins **relatifs** (aucun `C:\…` ni `file:///…`).
+- [x] Le lien de retour de `pages/contact.html` utilise `../`.
+- [x] Le lien vers la FAO s'ouvre dans un nouvel onglet et contient `rel="noopener"`.
+- [x] Le lien e-mail commence par `mailto:`.
+- [x] Plus aucun lien « cliquez ici » : chaque texte de lien a du sens tout seul.
 
 ## Indices
 
